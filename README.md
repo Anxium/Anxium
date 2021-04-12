@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Axel.
-### I work at We Invest Real Estate as a Software Engineer. 
-### 👋
+### Hi, I'm Axel. 👋
