@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 🖖
 
-My name is Axel, i'm a Full Stack Developer at [We Invest Real Estate](https://weinvest.be). 
+My name is Axel, i'm a Technical Lead Developer at [We Invest Real Estate](https://weinvest.be). 
 I like to keep up with the latest releases of my favorite stacks.
 
 🔭 In the future, i'd like to have the time to create and contribute to open-source projects.
