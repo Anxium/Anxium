@@ -36,8 +36,9 @@ I like to keep up with the latest releases of my favorite stacks.
 ![React](https://badges.aleen42.com/src/react.svg)
 
 
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anxium&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anxium's stats" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxium&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Anxium's top langs" height="160px" />
 </p>
+-->
