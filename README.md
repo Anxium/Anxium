@@ -15,25 +15,27 @@ Here are some ideas to get you started:
 
 ### Hi there 🖖
 
-My name is Axel, i'm a Technical Lead Developer at [We Invest Real Estate](https://weinvest.be). 
+My name is Axel, and I'm Lead Developer at [We Invest Real Estate](https://weinvest.be). 
 I like to keep up with the latest releases of my favorite stacks.
 
-🔭 In the future, i'd like to have the time to create and contribute to open-source projects.
+🔭 In the future, I'd like to have the time to create and contribute to open-source projects.
 
-📫 If you want to reach me, send me an email at axel.avx@gmail.com
+📫 If you want to reach me, send me an email to axel.avx@gmail.com
 
 #### Development & Deployment
 ![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![Github](https://badges.aleen42.com/src/github.svg)
 ![Docker](https://badges.aleen42.com/src/docker.svg)
 
-#### Node.js, JavaScript & TypeScript
-![Node](https://aleen42.github.io/badges/src/node.svg)
-![Npm](https://badges.aleen42.com/src/npm.svg)
+#### Technologies
+![Node.js](https://aleen42.github.io/badges/src/node.svg)
+![npm](https://badges.aleen42.com/src/npm.svg)
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
 ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
-![Webpack](https://badges.aleen42.com/src/webpack.svg)
 ![React](https://badges.aleen42.com/src/react.svg)
+![Svelte](https://badges.aleen42.com/src/svelte.svg)
+![TailwindCSS](https://badges.aleen42.com/src/tailwindcss.svg)
+
 
 
 <!--
